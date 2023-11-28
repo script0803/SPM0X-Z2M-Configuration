@@ -1,0 +1,1 @@
+# SPM0X-Z2M-Configuration
